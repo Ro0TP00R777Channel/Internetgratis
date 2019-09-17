@@ -16,3 +16,16 @@ $ cd Internetgratis
 $ chmod +x Internetgratis.py
 
 $ python2 Internetgratis.py
+
+
+$ apt update && apt upgrade
+
+$ apt install python
+
+$ apt install python2
+
+$ apt install Python3-requests
+
+$ apt install Python2-requests
+
+$ apt install git
